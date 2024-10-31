@@ -1,0 +1,356 @@
+date,president,party,pollster,method,N_approve,N_disapprove,N_total,unemployment
+2017-05-17,macron,center,Elabe,internet,450,460,910,9.2
+2017-05-20,macron,center,Ifop,phone,603,302,905,9.2
+2017-05-20,macron,center,Ipsos,internet,467,274,741,9.2
+2017-05-21,macron,center,Viavoice,internet,493,302,795,9.2
+2017-05-23,macron,center,BVA,internet,627,354,981,9.2
+2017-05-23,macron,center,Odoxa,internet,588,416,1004,9.2
+2017-05-24,macron,center,Elabe,internet,704,326,1030,9.2
+2017-05-25,macron,center,YouGov,internet,393,323,716,9.2
+2017-05-27,macron,center,Ipsos,internet,1240,898,2138,9.2
+2017-05-27,macron,center,Kantar,face to face,575,383,958,9.2
+2017-06-04,macron,center,BVA,internet,3245,1479,4724,9.2
+2017-06-06,macron,center,Elabe,internet,450,450,900,9.2
+2017-06-07,macron,center,Elabe,internet,660,330,990,9.2
+2017-06-09,macron,center,Ipsos,internet,2322,1681,4003,9.2
+2017-06-19,macron,center,Ifop,phone&internet,1205,659,1864,9.2
+2017-06-20,macron,center,BVA,internet,700,463,1163,9.2
+2017-06-22,macron,center,Odoxa,internet,585,413,998,9.2
+2017-06-24,macron,center,Ipsos,internet,476,286,762,9.2
+2017-06-24,macron,center,Kantar,face to face,540,390,930,9.2
+2017-06-25,macron,center,Viavoice,internet,536,273,809,9.2
+2017-06-29,macron,center,YouGov,internet,437,366,803,9.2
+2017-07-05,macron,center,Elabe,internet,450,460,910,9.2
+2017-07-18,macron,center,BVA,internet,544,443,987,9.2
+2017-07-20,macron,center,Ifop,phone&internet,1051,837,1888,9.2
+2017-07-22,macron,center,Ipsos,internet,429,429,858,9.2
+2017-07-27,macron,center,YouGov,internet,361,491,852,9.2
+2017-08-02,macron,center,Elabe,internet,400,550,950,9.2
+2017-08-08,macron,center,Ifop,internet,360,641,1001,9.2
+2017-08-26,macron,center,Ifop,phone&internet,409,583,992,9.2
+2017-08-26,macron,center,Kantar,face to face,403,511,914,9.2
+2017-08-29,macron,center,BVA,internet,500,639,1139,9.2
+2017-08-29,macron,center,Yougov,internet,301,542,843,9.2
+2017-09-06,macron,center,Elabe,internet,371,581,952,9.2
+2017-09-09,macron,center,Ipsos,internet,316,534,850,9.2
+2017-09-13,macron,center,Viavoice,internet,383,473,856,9.2
+2017-09-14,macron,center,Odoxa,internet,436,556,992,9.2
+2017-09-19,macron,center,Ifop,phone&internet,895,1054,1949,9.2
+2017-09-26,macron,center,BVA,internet,491,557,1048,9.2
+2017-09-28,macron,center,Yougov,internet,321,561,882,9.2
+2017-09-30,macron,center,Kantar,face to face,390,560,950,9.2
+2017-10-04,macron,center,Elabe,internet,400,541,941,8.6
+2017-10-14,macron,center,Ipsos,internet,325,517,842,8.6
+2017-10-17,macron,center,Ifop,phone&internet,814,1085,1899,8.6
+2017-10-19,macron,center,Odoxa,internet,438,557,995,8.6
+2017-10-25,macron,center,BVA,internet,501,668,1169,8.6
+2017-10-26,macron,center,Yougov,internet,331,569,900,8.6
+2017-10-27,macron,center,Kantar,face to face,374,560,934,8.6
+2017-10-31,macron,center,Elabe,internet,438,645,1083,8.6
+2017-11-01,macron,center,Viavoice,internet,401,461,862,8.6
+2017-11-11,macron,center,Ipsos,internet,386,553,939,8.6
+2017-11-14,macron,center,Ifop,phone&internet,903,1021,1924,8.6
+2017-11-23,macron,center,Odoxa,internet,454,555,1009,8.6
+2017-11-25,macron,center,Kantar,face to face,420,540,960,8.6
+2017-11-28,macron,center,BVA,internet,447,496,943,8.6
+2017-11-29,macron,center,Elabe,internet,400,541,941,8.6
+2017-11-30,macron,center,Yougov,internet,352,503,855,8.6
+2017-12-09,macron,center,Ipsos,internet,396,508,904,8.6
+2017-12-12,macron,center,Ifop,phone&internet,1010,893,1903,8.6
+2017-12-14,macron,center,Odoxa,internet,555,473,1028,8.6
+2017-12-19,macron,center,BVA,internet,623,540,1163,8.6
+2018-01-03,macron,center,Elabe,internet,420,500,920,8.9
+2018-01-06,macron,center,Kantar,face to face,440,510,950,8.9
+2018-01-13,macron,center,Ipsos,internet,420,514,934,8.9
+2018-01-16,macron,center,Ifop,phone&internet,974,954,1928,8.9
+2018-01-18,macron,center,Odoxa,internet,493,503,996,8.9
+2018-01-25,macron,center,Yougov,internet,413,454,867,8.9
+2018-01-27,macron,center,Kantar,face to face,440,510,950,8.9
+2018-01-30,macron,center,BVA,internet,517,528,1045,8.9
+2018-01-31,macron,center,Elabe,internet,380,560,940,8.9
+2018-02-10,macron,center,Ipsos,internet,350,551,901,8.9
+2018-02-13,macron,center,Ifop,phone&internet,859,1074,1933,8.9
+2018-02-22,macron,center,Odoxa,internet,418,555,973,8.9
+2018-02-22,macron,center,Yougov,internet,308,595,903,8.9
+2018-02-23,macron,center,Viavoice,internet,414,454,868,8.9
+2018-02-24,macron,center,Kantar,face to face,430,530,960,8.9
+2018-02-27,macron,center,BVA,internet,438,540,978,8.9
+2018-02-28,macron,center,Elabe,internet,410,519,929,8.9
+2018-03-13,macron,center,Ifop,phone&internet,817,1109,1926,8.9
+2018-03-17,macron,center,Ipsos,internet,374,556,930,8.9
+2018-03-22,macron,center,BVA,internet,421,600,1021,8.9
+2018-03-23,macron,center,Odoxa,internet,458,550,1008,8.9
+2018-03-28,macron,center,Yougov,internet,321,562,883,8.9
+2018-03-30,macron,center,Kantar,face to face,400,560,960,8.9
+2018-04-04,macron,center,Elabe,internet,393,554,947,8.8
+2018-04-13,macron,center,Elabe,internet,201,442,643,8.8
+2018-04-14,macron,center,Ifop,internet,504,697,1201,8.8
+2018-04-17,macron,center,Ifop,phone&internet,858,1072,1930,8.8
+2018-04-17,macron,center,Viavoice,internet,410,460,870,8.8
+2018-04-18,macron,center,Elabe,internet,200,461,661,8.8
+2018-04-19,macron,center,BVA,internet,435,546,981,8.8
+2018-04-19,macron,center,Odoxa,internet,478,539,1017,8.8
+2018-04-21,macron,center,Ipsos,internet,405,527,932,8.8
+2018-04-25,macron,center,Kantar,face to face,410,560,970,8.8
+2018-04-26,macron,center,Yougov,internet,334,547,881,8.8
+2018-05-01,macron,center,Elabe,internet,413,534,947,8.8
+2018-05-16,macron,center,Odoxa,internet,467,548,1015,8.8
+2018-05-19,macron,center,Ipsos,internet,379,594,973,8.8
+2018-05-24,macron,center,BVA,internet,400,560,960,8.8
+2018-05-26,macron,center,Kantar,face to face,380,570,950,8.8
+2018-06-06,macron,center,Elabe,internet,401,551,952,8.8
+2018-06-19,macron,center,Ifop,phone&internet,785,1139,1924,8.8
+2018-06-21,macron,center,BVA,internet,410,530,940,8.8
+2018-06-22,macron,center,Odoxa,internet,413,594,1007,8.8
+2018-06-23,macron,center,Ipsos,internet,359,588,947,8.8
+2018-06-28,macron,center,Ifop,internet,413,595,1008,8.8
+2018-06-28,macron,center,Yougov,internet,329,607,936,8.8
+2018-06-30,macron,center,Kantar,face to face,295,591,886,8.8
+2018-07-04,macron,center,Elabe,internet,340,601,941,8.7
+2018-07-16,macron,center,Odoxa,internet,392,613,1005,8.7
+2018-07-19,macron,center,BVA,internet,391,592,983,8.7
+2018-07-21,macron,center,Ipsos,internet,320,599,919,8.7
+2018-07-23,macron,center,Ifop,internet,773,1208,1981,8.7
+2018-07-25,macron,center,Harris,internet,406,560,966,8.7
+2018-07-26,macron,center,Yougov,internet,275,631,906,8.7
+2018-08-01,macron,center,Elabe,internet,363,604,967,8.7
+2018-08-21,macron,center,Viavoice,internet,363,514,877,8.7
+2018-08-24,macron,center,Ifop,internet,338,657,995,8.7
+2018-08-25,macron,center,Kantar,face to face,330,640,970,8.7
+2018-08-29,macron,center,Harris,internet,352,625,977,8.7
+2018-08-30,macron,center,BVA,internet,354,686,1040,8.7
+2018-08-30,macron,center,Yougov,internet,253,758,1011,8.7
+2018-08-31,macron,center,Ifop,internet,315,700,1015,8.7
+2018-09-05,macron,center,Elabe,internet,310,640,950,8.7
+2018-09-06,macron,center,Odoxa,internet,291,713,1004,8.7
+2018-09-08,macron,center,Ipsos,internet,250,689,939,8.7
+2018-09-18,macron,center,Ifop,phone&internet,570,1375,1945,8.7
+2018-09-20,macron,center,OpinionWay,internet,297,743,1040,8.7
+2018-09-26,macron,center,Harris,internet,347,675,1022,8.7
+2018-09-27,macron,center,BVA,internet,324,677,1001,8.7
+2018-09-27,macron,center,Yougov,internet,252,674,926,8.7
+2018-09-28,macron,center,Ifop,internet,333,675,1008,8.7
+2018-09-29,macron,center,Kantar,face to face,300,670,970,8.7
+2018-10-03,macron,center,Elabe,internet,300,661,961,8.4
+2018-10-05,macron,center,Odoxa,internet,335,669,1004,8.4
+2018-10-17,macron,center,Ifop,phone&internet,571,1378,1949,8.4
+2018-10-18,macron,center,OpinionWay,internet,308,723,1031,8.4
+2018-10-20,macron,center,Ipsos,internet,261,702,963,8.4
+2018-10-21,macron,center,Viavoice,internet,262,655,917,8.4
+2018-10-24,macron,center,Harris,internet,326,663,989,8.4
+2018-10-25,macron,center,BVA,internet,316,763,1079,8.4
+2018-10-25,macron,center,Yougov,internet,212,697,909,8.4
+2018-10-26,macron,center,Ifop,internet,297,727,1024,8.4
+2018-10-26,macron,center,Kantar,face to face,260,710,970,8.4
+2018-11-07,macron,center,Elabe,internet,271,691,962,8.4
+2018-11-13,macron,center,Ifop,phone&internet,489,1429,1918,8.4
+2018-11-15,macron,center,OpinionWay,internet,309,734,1043,8.4
+2018-11-16,macron,center,Odoxa,internet,322,683,1005,8.4
+2018-11-17,macron,center,Ipsos,internet,260,700,960,8.4
+2018-11-22,macron,center,BVA,internet,327,918,1245,8.4
+2018-11-28,macron,center,Harris,internet,291,617,908,8.4
+2018-11-29,macron,center,Viavoice,internet,235,704,939,8.4
+2018-11-29,macron,center,Yougov,internet,181,765,946,8.4
+2018-11-30,macron,center,Ifop,internet,231,763,994,8.4
+2018-12-01,macron,center,Kantar,face to face,210,770,980,8.4
+2018-12-05,macron,center,Elabe,internet,230,741,971,8.4
+2018-12-08,macron,center,Ipsos,internet,194,738,932,8.4
+2018-12-11,macron,center,Ifop,phone&internet,447,1477,1924,8.4
+2018-12-13,macron,center,OpinionWay,internet,319,689,1008,8.4
+2018-12-14,macron,center,Odoxa,internet,267,723,990,8.4
+2018-12-19,macron,center,BVA,internet,298,796,1094,8.4
+2018-12-24,macron,center,Harris,internet,319,709,1028,8.4
+2019-01-04,macron,center,Ifop,internet,281,723,1004,8.4
+2019-01-05,macron,center,Kantar,face to face,220,750,970,8.4
+2019-01-09,macron,center,Elabe,internet,251,712,963,8.4
+2019-01-12,macron,center,Ipsos,internet,231,744,975,8.4
+2019-01-15,macron,center,Ifop,phone&internet,521,1388,1909,8.4
+2019-01-18,macron,center,OpinionWay,internet,313,709,1022,8.4
+2019-01-23,macron,center,Harris,internet,364,675,1039,8.4
+2019-01-23,macron,center,Odoxa,internet,301,692,993,8.4
+2019-01-24,macron,center,BVA,internet,317,706,1023,8.4
+2019-01-26,macron,center,Kantar,face to face,240,730,970,8.4
+2019-01-31,macron,center,Yougov,internet,218,757,975,8.4
+2019-02-01,macron,center,Ifop,internet,341,663,1004,8.4
+2019-02-06,macron,center,Elabe,internet,270,690,960,8.4
+2019-02-12,macron,center,Ifop,phone&internet,529,1343,1872,8.4
+2019-02-14,macron,center,OpinionWay,internet,298,709,1007,8.4
+2019-02-20,macron,center,Viavoice,internet,281,612,893,8.4
+2019-02-21,macron,center,BVA,internet,304,698,1002,8.4
+2019-02-21,macron,center,Harris,internet,350,547,897,8.4
+2019-02-21,macron,center,Odoxa,internet,321,683,1004,8.4
+2019-02-23,macron,center,Kantar,face to face,260,710,970,8.4
+2019-02-28,macron,center,Yougov,internet,241,703,944,8.4
+2019-03-01,macron,center,Ifop,internet,313,696,1009,8.4
+2019-03-02,macron,center,Ipsos,internet,290,693,983,8.4
+2019-03-06,macron,center,Elabe,internet,311,662,973,8.4
+2019-03-14,macron,center,OpinionWay,internet,342,706,1048,8.4
+2019-03-19,macron,center,Ifop,phone&internet,559,1331,1890,8.4
+2019-03-21,macron,center,BVA,internet,290,701,991,8.4
+2019-03-21,macron,center,Odoxa,internet,300,701,1001,8.4
+2019-03-21,macron,center,OpinionWay,internet,293,696,989,8.4
+2019-03-27,macron,center,Harris,internet,355,578,933,8.4
+2019-03-28,macron,center,OpinionWay,internet,305,736,1041,8.4
+2019-03-28,macron,center,Yougov,internet,250,681,931,8.4
+2019-03-29,macron,center,Ifop,internet,290,711,1001,8.4
+2019-03-30,macron,center,Kantar,face to face,260,710,970,8.4
+2019-04-03,macron,center,Elabe,internet,281,693,974,8.1
+2019-04-06,macron,center,Ipsos,internet,270,691,961,8.1
+2019-04-16,macron,center,Ifop,phone&internet,557,1325,1882,8.1
+2019-04-18,macron,center,BVA,internet,321,671,992,8.1
+2019-04-18,macron,center,Odoxa,internet,321,672,993,8.1
+2019-04-18,macron,center,OpinionWay,internet,285,740,1025,8.1
+2019-04-24,macron,center,Harris,internet,355,579,934,8.1
+2019-04-26,macron,center,Kantar,face to face,250,720,970,8.1
+2019-04-28,macron,center,Viavoice,internet,261,651,912,8.1
+2019-05-03,macron,center,Ifop,internet,302,706,1008,8.1
+2019-05-07,macron,center,Elabe,internet,427,1061,1488,8.1
+2019-05-11,macron,center,Ipsos,internet,270,681,951,8.1
+2019-05-14,macron,center,Ifop,phone&internet,584,1304,1888,8.1
+2019-05-16,macron,center,BVA,internet,320,680,1000,8.1
+2019-05-27,macron,center,Odoxa,internet,294,686,980,8.1
+2019-05-29,macron,center,Harris,internet,369,553,922,8.1
+2019-05-29,macron,center,Ifop,internet,322,683,1005,8.1
+2019-05-30,macron,center,Kantar,face to face,290,680,970,8.1
+2019-06-05,macron,center,Elabe,internet,322,634,956,8.1
+2019-06-06,macron,center,OpinionWay,internet,335,659,994,8.1
+2019-06-15,macron,center,Ipsos,internet,321,641,962,8.1
+2019-06-18,macron,center,Ifop,phone&internet,573,1280,1853,8.1
+2019-06-20,macron,center,BVA,internet,351,652,1003,8.1
+2019-06-20,macron,center,Odoxa,internet,361,641,1002,8.1
+2019-06-26,macron,center,Harris,internet,358,536,894,8.1
+2019-06-27,macron,center,Ifop,internet,381,621,1002,8.1
+2019-06-29,macron,center,Kantar,face to face,270,690,960,8.1
+2019-07-02,macron,center,Viavoice,internet,321,571,892,8.2
+2019-07-02,macron,center,Yougov,internet,272,690,962,8.2
+2019-07-03,macron,center,Elabe,internet,313,646,959,8.2
+2019-07-04,macron,center,OpinionWay,internet,331,651,982,8.2
+2019-07-18,macron,center,BVA,internet,340,660,1000,8.2
+2019-07-18,macron,center,Ifop,internet,319,677,996,8.2
+2019-07-20,macron,center,Ipsos,internet,311,641,952,8.2
+2019-07-24,macron,center,Harris,internet,381,549,930,8.2
+2019-07-31,macron,center,Elabe,internet,281,671,952,8.2
+2019-08-22,macron,center,BVA,internet,328,638,966,8.2
+2019-08-22,macron,center,Ifop,internet,336,652,988,8.2
+2019-08-28,macron,center,Harris,internet,391,519,910,8.2
+2019-08-30,macron,center,Ifop,internet,384,626,1010,8.2
+2019-08-31,macron,center,Kantar,face to face,320,660,980,8.2
+2019-09-04,macron,center,Elabe,internet,331,611,942,8.2
+2019-09-11,macron,center,Viavoice,internet,323,544,867,8.2
+2019-09-14,macron,center,Ipsos,internet,363,595,958,8.2
+2019-09-17,macron,center,Ifop,phone&internet,647,1254,1901,8.2
+2019-09-19,macron,center,BVA,internet,371,633,1004,8.2
+2019-09-19,macron,center,Odoxa,internet,362,633,995,8.2
+2019-09-25,macron,center,Harris,internet,380,525,905,8.2
+2019-09-28,macron,center,Kantar,face to face,290,670,960,8.2
+2019-10-02,macron,center,Elabe,internet,330,600,930,7.8
+2019-10-12,macron,center,Ipsos,internet,333,625,958,7.8
+2019-10-15,macron,center,Ifop,phone&internet,664,1250,1914,7.8
+2019-10-17,macron,center,BVA,internet,370,620,990,7.8
+2019-10-23,macron,center,Harris,internet,362,543,905,7.8
+2019-10-24,macron,center,Odoxa,internet,352,653,1005,7.8
+2019-10-25,macron,center,Kantar,face to face,300,670,970,7.8
+2019-10-29,macron,center,Yougov,internet,278,670,948,7.8
+2019-11-06,macron,center,Elabe,internet,281,651,932,7.8
+2019-11-12,macron,center,Ifop,phone&internet,631,1242,1873,7.8
+2019-11-14,macron,center,BVA,internet,348,620,968,7.8
+2019-11-16,macron,center,Ipsos,internet,347,663,1010,7.8
+2019-11-17,macron,center,Viavoice,internet,311,572,883,7.8
+2019-11-21,macron,center,Odoxa,internet,341,651,992,7.8
+2019-11-27,macron,center,Harris,internet,351,549,900,7.8
+2019-11-28,macron,center,Kantar,face to face,270,700,970,7.8
+2019-12-10,macron,center,Ifop,phone&internet,646,1234,1880,7.8
+2019-12-12,macron,center,BVA,internet,329,639,968,7.8
+2019-12-13,macron,center,Elabe,internet,301,652,953,7.8
+2019-12-14,macron,center,Ipsos,internet,290,671,961,7.8
+2019-12-19,macron,center,Odoxa,internet,331,671,1002,7.8
+2019-12-26,macron,center,Harris,internet,366,549,915,7.8
+2020-01-15,macron,center,Elabe,internet,322,634,956,7.6
+2020-01-18,macron,center,Ipsos,internet,301,643,944,7.6
+2020-01-21,macron,center,Ifop,phone&internet,586,1327,1913,7.6
+2020-01-22,macron,center,Harris,internet,374,560,934,7.6
+2020-01-23,macron,center,BVA,internet,332,663,995,7.6
+2020-01-23,macron,center,Odoxa,internet,361,641,1002,7.6
+2020-01-30,macron,center,Ifop,internet,340,660,1000,7.6
+2020-02-01,macron,center,Kantar,face to face,240,720,960,7.6
+2020-02-05,macron,center,Elabe,internet,312,633,945,7.6
+2020-02-18,macron,center,Ifop,phone&internet,623,1285,1908,7.6
+2020-02-19,macron,center,Harris,internet,345,564,909,7.6
+2020-02-20,macron,center,BVA,internet,330,670,1000,7.6
+2020-02-20,macron,center,Odoxa,internet,332,663,995,7.6
+2020-02-22,macron,center,Ipsos,internet,302,633,935,7.6
+2020-02-23,macron,center,Viavoice,internet,280,590,870,7.6
+2020-02-29,macron,center,Kantar,face to face,280,690,970,7.6
+2020-03-04,macron,center,Elabe,internet,292,665,957,7.6
+2020-03-18,macron,center,Harris,internet,468,449,917,7.6
+2020-03-21,macron,center,Ipsos,internet,440,510,950,7.6
+2020-03-21,macron,center,Viavoice,internet,340,510,850,7.6
+2020-03-23,macron,center,Ifop,phone&internet,830,1081,1911,7.6
+2020-03-25,macron,center,Odoxa,internet,382,623,1005,7.6
+2020-03-26,macron,center,BVA,internet,404,596,1000,7.6
+2020-03-28,macron,center,Kantar,internet,470,470,940,7.6
+2020-03-31,macron,center,Elabe,internet,391,572,963,7.6
+2020-04-13,macron,center,Ifop,phone&internet,816,1107,1923,7.0
+2020-04-23,macron,center,BVA,internet,371,595,966,7.0
+2020-04-23,macron,center,Odoxa,internet,422,583,1005,7.0
+2020-04-24,macron,center,Ipsos,internet,381,581,962,7.0
+2020-04-29,macron,center,Harris,internet,407,540,947,7.0
+2020-05-05,macron,center,Elabe,internet,343,615,958,7.0
+2020-05-19,macron,center,BVA,internet,363,608,971,7.0
+2020-05-19,macron,center,Ifop,phone&internet,748,1151,1899,7.0
+2020-05-20,macron,center,Odoxa,internet,351,653,1004,7.0
+2020-05-27,macron,center,Harris,internet,423,538,961,7.0
+2020-05-30,macron,center,Ipsos,internet,385,598,983,7.0
+2020-05-31,macron,center,Viavoice,internet,330,530,860,7.0
+2020-06-02,macron,center,Elabe,internet,331,621,952,7.0
+2020-06-16,macron,center,Ifop,phone&internet,709,1119,1828,7.0
+2020-06-18,macron,center,BVA,internet,381,622,1003,7.0
+2020-06-18,macron,center,Odoxa,internet,392,612,1004,7.0
+2020-06-24,macron,center,Harris,internet,429,546,975,7.0
+2020-06-27,macron,center,Kantar,face to face,330,640,970,7.0
+2020-06-30,macron,center,Yougov,internet,297,655,952,7.0
+2020-07-01,macron,center,Elabe,internet,351,653,1004,8.9
+2020-07-10,macron,center,Ifop,internet,387,631,1018,8.9
+2020-07-16,macron,center,BVA,internet,390,610,1000,8.9
+2020-07-16,macron,center,Ifop,internet,360,614,974,8.9
+2020-07-22,macron,center,Harris,internet,480,480,960,8.9
+2020-08-04,macron,center,Yougov,internet,312,635,947,8.9
+2020-08-05,macron,center,Elabe,internet,391,561,952,8.9
+2020-08-26,macron,center,Harris,internet,447,547,994,8.9
+2020-08-27,macron,center,BVA,internet,441,551,992,8.9
+2020-08-28,macron,center,Ifop,internet,396,620,1016,8.9
+2020-08-29,macron,center,Kantar,face to face,350,610,960,8.9
+2020-09-01,macron,center,Yougov,internet,317,625,942,8.9
+2020-09-09,macron,center,Elabe,internet,350,571,921,8.9
+2020-09-23,macron,center,Harris,internet,447,547,994,8.9
+2020-09-23,macron,center,Odoxa,internet,382,623,1005,8.9
+2020-09-24,macron,center,BVA,internet,380,621,1001,8.9
+2020-09-26,macron,center,Kantar,face to face,290,680,970,8.9
+2020-09-29,macron,center,Yougov,internet,300,651,951,8.9
+2020-10-07,macron,center,Elabe,internet,320,630,950,7.7
+2020-10-10,macron,center,Ipsos,internet,400,540,940,7.7
+2020-10-22,macron,center,BVA,internet,421,571,992,7.7
+2020-10-22,macron,center,Odoxa,internet,410,581,991,7.7
+2020-10-28,macron,center,Harris,internet,442,519,961,7.7
+2020-10-30,macron,center,Kantar,face to face,400,550,950,7.7
+2020-11-03,macron,center,Yougov,internet,341,582,923,7.7
+2020-11-04,macron,center,Elabe,internet,351,612,963,7.7
+2020-11-11,macron,center,Odoxa,internet,432,573,1005,7.7
+2020-11-14,macron,center,Ipsos,internet,370,580,950,7.7
+2020-11-16,macron,center,Ifop,phone&internet,789,1097,1886,7.7
+2020-11-19,macron,center,BVA,internet,387,534,921,7.7
+2020-11-25,macron,center,Harris,internet,475,495,970,7.7
+2020-11-27,macron,center,Ifop,internet,415,598,1013,7.7
+2020-11-28,macron,center,Kantar,face to face,380,580,960,7.7
+2020-12-01,macron,center,Yougov,internet,323,615,938,7.7
+2020-12-02,macron,center,Elabe,internet,320,640,960,7.7
+2020-12-11,macron,center,Odoxa,internet,416,574,990,7.7
+2020-12-17,macron,center,BVA,internet,402,603,1005,7.7
+2020-12-23,macron,center,Harris,internet,490,510,1000,7.7
+2021-01-06,macron,center,Elabe,internet,350,611,961,7.7
+2021-01-06,macron,center,Yougov,internet,340,647,987,7.7
+2021-01-08,macron,center,Ifop,internet,463,565,1028,7.7
+2021-01-14,macron,center,Odoxa,internet,401,602,1003,7.7
+2021-01-23,macron,center,Ipsos,internet,350,600,950,7.7
+2021-01-31,macron,center,Kantar,face-to-face&internet,780,1120,1900,7.7
+2021-02-03,macron,center,Elabe,internet,360,601,961,7.7
