@@ -10,25 +10,50 @@ This is an introductory course, therefore no direct experience with PyMC or Baye
 
 ## Setup
 
-This course assumes that you have some form of [Anaconda](https://www.anaconda.com/products/individual#download-section) Python (with Python version 3.11) setup and installed on your system. If you do not, please download and install this on your system before proceeding with the setup. We recommend using the [Miniforge](https://github.com/conda-forge/miniforge#download) distribution of Anaconda, which is a lightweight version of Anaconda that is easier to work with.
+This course can be set up using either Anaconda/Miniforge or Pixi for Python package management.
 
-The next step is to clone or download the course materials in this repository. If you are familiar with Git, run the clone command:
+### Option 1: Using Anaconda/Miniforge
+
+If you prefer using Anaconda, you'll need [Anaconda](https://www.anaconda.com/products/individual#download-section) Python (with Python version 3.11) installed on your system. We recommend using the [Miniforge](https://github.com/conda-forge/miniforge#download) distribution, which is a lightweight version of Anaconda that is easier to work with.
+
+### Option 2: Using Pixi 
+
+Alternatively, you can use Pixi, a modern package management tool. To install Pixi:
+
+On Linux/macOS:
+    curl -fsSL https://pixi.sh/install.sh | bash
+
+On Windows:
+    iwr -useb https://pixi.sh/install.ps1 | iex
+
+You may need to restart your terminal after installation.
+
+### Getting the Course Materials
+
+The next step is to clone or download the course materials. If you are familiar with Git, run:
 
     git clone https://github.com/fonnesbeck/bayes_course_dec_2024.git
 
 otherwise you can [download a zip file](https://github.com/fonnesbeck/bayes_course_dec_2023/archive/main.zip) of its contents, and unzip it on your computer.
-***
-The repository for this course contains a file called `environment.yml` that includes a list of all the packages used for the course. If you run:
+
+### Setting up the Environment
+
+If using Anaconda/Miniforge:
+The repository contains an `environment.yml` file with all required packages. Run:
 
     mamba env create
 
-from the main course directory (if you installed Anaconda instead of Miniforge, use `conda` instead of `mamba`), it will create the environment for you and install all of the packages listed. This environment can be enabled using:
+from the main course directory (use `conda` instead of `mamba` if you installed Anaconda). Then activate the environment:
 
     mamba activate bayes_course
-
-or
-
+    # or
     conda activate bayes_course
+
+If using Pixi:
+The repository contains a `pixi.toml` file. From the main course directory, simply run:
+
+    pixi install
+    pixi shell
 
 Then, you can start **JupyterLab** to access the materials:
 
