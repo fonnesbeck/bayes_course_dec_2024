@@ -1,0 +1,34 @@
+[project]
+authors = ["Chris Fonnesbeck <fonnesbeck@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "bayes_course"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "*"
+hvplot = "*"
+ipython = "*"
+ipywidgets = "*"
+jupyter_client = "*"
+jupyter_core = "*"
+jupyterlab = "*"
+pandas = "*"
+patsy = "*"
+pip = "*"
+polars = "*"
+pyarrow = "*"
+pymc = "*"
+pydot = "*"
+python-graphviz = "*"
+scipy = "*"
+seaborn = "*"
+setuptools = "*"
+watermark = "*"
+
+[pypi-dependencies]
+jax = { version = "*", extras = ["cpu"] }
+numpyro = { version = "*", extras = ["cpu"] }

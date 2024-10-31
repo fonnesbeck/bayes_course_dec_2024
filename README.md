@@ -42,7 +42,7 @@ For those who like to work in VS Code, you can also run Jupyter notebooks from w
 
 In advance of the course, we would like attendees to complete a short homework notebook that will ensure everyone has the requisite baseline knowledge. You can find this Jupyter notebook in the `/notebooks` subdirectory (under `Section0-Pre_Work.ipynb`). There is no need to hand this in to anyone, but please reach out if you have difficulty with any of the problems (or with setting up your computing environment) by creating an [issue](https://github.com/fonnesbeck/bayes_course_dec_2024/issues) in this repository, or by emailing.
 
-## Daily Schedule (All times are Easter US standard time)
+## Daily Schedule (All times are Eastern US standard time)
 
 - **10:00 to 11:30** First session
 - **11:30 to 11:45** Break ☕
