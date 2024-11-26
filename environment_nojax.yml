@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - altair
   - ipython
   - ipywidgets
   - jupyter_client
@@ -13,6 +14,7 @@ dependencies:
   - patsy
   - pip
   - polars
+  - preliz
   - pymc
   - pydot
   - python-graphviz
