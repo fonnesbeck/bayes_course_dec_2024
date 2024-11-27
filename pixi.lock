@@ -229,6 +229,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/notebook-shim-0.2.4-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/numba-0.60.0-py312h83e6fd3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/numpy-1.26.4-py312heda63a1_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/nutpie-0.13.2-py312h6a493c6_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/openblas-0.3.28-pthreads_h6ec200e_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/openjpeg-2.5.2-h488ebb8_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/openssl-3.4.0-hb9d3cd8_0.conda
@@ -4810,6 +4811,35 @@ packages:
   - scipy>=1.9 ; extra == 'test'
   - jax[tpu]>=0.4.25 ; extra == 'tpu'
   requires_python: '>=3.9'
+- kind: conda
+  name: nutpie
+  version: 0.13.2
+  build: py312h6a493c6_0
+  subdir: linux-64
+  url: https://conda.anaconda.org/conda-forge/linux-64/nutpie-0.13.2-py312h6a493c6_0.conda
+  sha256: 702ce9c914d19ef2d427b9824b2bb5d35caffd1445fc5361fbf1cc12567526a7
+  md5: 5ca03d12522d6a24426a7f22ef2ffdaa
+  depends:
+  - __glibc >=2.17,<3.0.a0
+  - arviz >=0.15.0
+  - libgcc-ng >=12
+  - numpy >=1.26.4,<2.0a0
+  - pandas >=2.0
+  - pyarrow-core >=12.0.0
+  - python >=3.12,<3.13.0a0
+  - python_abi 3.12.* *_cp312
+  - xarray >=2023.06.0
+  constrains:
+  - pytensor-base >=2.8.11
+  - pymc-base >=5.5.0
+  - numba >=0.57
+  - __glibc >=2.17
+  license: MIT
+  license_family: MIT
+  purls:
+  - pkg:pypi/nutpie?source=hash-mapping
+  size: 1272911
+  timestamp: 1722020635301
 - kind: conda
   name: openblas
   version: 0.3.28

@@ -10,6 +10,8 @@ dependencies:
   - jupyter_client
   - jupyter_core
   - jupyterlab
+  - numba
+  - nutpie
   - pandas
   - patsy
   - pip
@@ -23,6 +25,3 @@ dependencies:
   - seaborn
   - setuptools
   - watermark
-  - pip:
-    - jax[cpu]
-    - numpyro[cpu]
