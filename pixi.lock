@@ -331,6 +331,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/widgetsnbextension-4.0.13-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/xarray-2024.11.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/xarray-einstats-0.8.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/xlrd-2.0.1-pyhd8ed1ab_3.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/linux-64/xorg-libice-1.1.1-hb9d3cd8_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/xorg-libsm-1.2.4-he73a12e_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/xorg-libx11-1.8.10-h4f16b4b_0.conda
@@ -6791,6 +6792,24 @@ packages:
   - pkg:pypi/xarray-einstats?source=hash-mapping
   size: 33815
   timestamp: 1726758642806
+- kind: conda
+  name: xlrd
+  version: 2.0.1
+  build: pyhd8ed1ab_3
+  build_number: 3
+  subdir: noarch
+  noarch: python
+  url: https://conda.anaconda.org/conda-forge/noarch/xlrd-2.0.1-pyhd8ed1ab_3.tar.bz2
+  sha256: a97030fc6cde1a335c035392db47efdb4add7d1db76a11b4bfac6ec7fc42bfe5
+  md5: 97dfcd5ff030d829b55f67e82f928093
+  depends:
+  - python >=3.6
+  license: BSD-3-Clause AND BSD-4-Clause
+  license_family: BSD
+  purls:
+  - pkg:pypi/xlrd?source=hash-mapping
+  size: 94071
+  timestamp: 1610224499738
 - kind: conda
   name: xorg-libice
   version: 1.1.1
